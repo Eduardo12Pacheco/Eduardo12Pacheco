@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="svg-title svg-desc">
+  <title id="svg-title">Eduardo Pacheco — Python · Backend · Datos</title>
+  <desc id="svg-desc">Perfil técnico con diagrama plano de un pipeline de tres etapas: datos de entrada, proceso y evidencia en gráfico de barras.</desc>
+
+  <!-- Fondo -->
+  <rect width="1200" height="320" fill="#0A1929"/>
+
+  <!-- Marca: cuadrícula 2x2 -->
+  <rect x="64" y="84" width="10" height="10" rx="2" fill="#4FD1C5"/>
+  <rect x="80" y="84" width="10" height="10" rx="2" fill="#2C4A66"/>
+  <rect x="64" y="100" width="10" height="10" rx="2" fill="#2C4A66"/>
+  <rect x="80" y="100" width="10" height="10" rx="2" fill="#4FD1C5"/>
+
+  <!-- Título -->
+  <text x="64" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#E6EDF3">Eduardo Pacheco</text>
+
+  <!-- Subtítulo -->
+  <text x="64" y="224" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#4FD1C5">Python · Backend · Datos</text>
+
+  <!-- Pipeline: datos → proceso → evidencia -->
+  <!-- Nodo 1: cilindro (datos) -->
+  <rect x="806" y="163" width="64" height="40" fill="#14304A"/>
+  <ellipse cx="838" cy="163" rx="32" ry="9" fill="#1B3A58" stroke="#2C4A66" stroke-width="1.5"/>
+  <path d="M806 163 L806 203 A32 9 0 0 0 870 203 L870 163" fill="none" stroke="#2C4A66" stroke-width="1.5"/>
+
+  <!-- Conector 1 -->
+  <line x1="870" y1="178" x2="916" y2="178" stroke="#4FD1C5" stroke-width="3"/>
+  <polygon points="922,178 912,172 912,184" fill="#4FD1C5"/>
+
+  <!-- Nodo 2: proceso -->
+  <rect x="922" y="156" width="88" height="44" rx="10" fill="#14304A" stroke="#2C4A66" stroke-width="1.5"/>
+
+  <!-- Conector 2 -->
+  <line x1="1010" y1="178" x2="1056" y2="178" stroke="#4FD1C5" stroke-width="3"/>
+  <polygon points="1062,178 1052,172 1052,184" fill="#4FD1C5"/>
+
+  <!-- Nodo 3: evidencia (barras) -->
+  <rect x="1062" y="166" width="20" height="36" fill="#3E5C78"/>
+  <rect x="1088" y="154" width="20" height="48" fill="#4FD1C5"/>
+  <rect x="1114" y="174" width="20" height="28" fill="#3E5C78"/>
+
+  <!-- Línea base -->
+  <rect x="64" y="262" width="1072" height="1" fill="#1E3A57"/>
+</svg>
