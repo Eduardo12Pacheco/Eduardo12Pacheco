@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/eduardo-github-profile/main/assets/profile-header.svg" alt="Eduardo Pacheco — Python · Backend · Datos" width="100%">
+  <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/Eduardo12Pacheco/main/assets/profile-header.svg" alt="Eduardo Pacheco — Python · Backend · Datos" width="100%">
 </p>
 
 Soy Eduardo Pacheco, estudiante de Computación en [ESPOL](https://www.espol.edu.ec) (Guayaquil, Ecuador). Construyo proyectos de datos reproducibles y explicables: cada repositorio documenta el problema, el método y la evidencia que lo respalda, sin métricas infladas ni demos sin sustento.
