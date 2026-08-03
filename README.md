@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/Eduardo12Pacheco/main/assets/profile-header.svg" alt="Eduardo Pacheco — Python · Backend · Datos" width="100%">
+  <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/Eduardo12Pacheco/main/assets/profile-header.svg" alt="Eduardo Pacheco - Ciencia de Datos e Inteligencia Artificial (Python · Backend · Datos)" width="100%">
 </p>
 
 Soy Eduardo Pacheco, estudiante de Ciencia de Datos e Inteligencia Artificial en [ESPOL](https://www.espol.edu.ec) (Guayaquil, Ecuador). Construyo proyectos de datos reproducibles y explicables: cada repositorio documenta el problema, el método y la evidencia que lo respalda, sin métricas infladas ni demos sin sustento.
@@ -77,6 +77,8 @@ Cuatro repositorios públicos que muestran el ciclo completo — problema, datos
 **Demostrados en proyectos públicos:** Python · pytest · uv · Streamlit · Git/GitHub · Linux · APIs · JSON/CSV · contratos de datos · validación · provenance · evaluación reproducible
 
 **Vistos y en formación:** HTML · CSS · JavaScript · FastAPI · React · Docker · Pandas · NumPy
+
+**Automatización y workflows (en formación):** n8n · automatizaciones
 
 ## 🧠 Temas que estoy explorando
 
