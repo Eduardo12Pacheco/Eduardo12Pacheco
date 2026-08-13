@@ -6,7 +6,7 @@ Soy Eduardo Pacheco, estudiante de Ciencia de Datos e Inteligencia Artificial en
 
 ## 🧭 Qué estoy construyendo
 
-Una base sólida en Python, backend y datos, demostrada con proyectos completos en lugar de ejercicios sueltos. Mi dirección actual: tomar datos públicos, procesarlos con contratos explícitos y terminar cada proyecto con resultados que se puedan revisar y cuestionar. Este perfil no es un currículum: es el registro de cómo construyo, valido y explico.
+Una base sólida en Python, backend y datos, demostrada con proyectos completos en lugar de ejercicios sueltos. Mi dirección actual: tomar datos públicos, procesarlos con contratos explícitos y terminar cada proyecto con resultados que se puedan revisar y cuestionar. Este perfil es el registro de cómo construyo, valido y explico.
 
 ## 🔎 Proyectos destacados
 
