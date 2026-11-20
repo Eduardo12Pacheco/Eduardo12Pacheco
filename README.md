@@ -1,120 +1,41 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/Eduardo12Pacheco/main/assets/profile-header.svg" alt="Eduardo Pacheco - Ciencia de Datos e Inteligencia Artificial (Python · Backend · Datos)" width="100%">
-</p>
+# Eduardo Pacheco
 
-Soy Eduardo Pacheco, estudiante de Ciencia de Datos e Inteligencia Artificial en [ESPOL](https://www.espol.edu.ec) (Guayaquil, Ecuador). Construyo proyectos de datos reproducibles y explicables: cada repositorio documenta el problema, el método y la evidencia que lo respalda, sin métricas infladas ni demos sin sustento.
+**Junior Python / Data Engineer**  
+Ciencia de Datos e IA · ESPOL · Guayaquil
 
-## 🧭 Qué estoy construyendo
+*English: junior Python / data engineer building reproducible, tested data pipelines with Python, FastAPI, SQL and Docker.*
 
-Una base sólida en Python, backend y datos, demostrada con proyectos completos en lugar de ejercicios sueltos. Mi dirección actual: tomar datos públicos, procesarlos con contratos explícitos y terminar cada proyecto con resultados que se puedan revisar y cuestionar. Este perfil es el registro de cómo construyo, valido y explico.
+Construyo pipelines de datos reproducibles y testeados: fuentes públicas o fijadas, contratos explícitos, pruebas y resultados que otra persona puede volver a ejecutar. Trabajo con Python, FastAPI, SQL y Docker, y documento el alcance y las limitaciones de cada proyecto.
 
-## 🔎 Proyectos destacados
+📍 Guayaquil, Ecuador · [LinkedIn](https://www.linkedin.com/in/eduardo-israel-pacheco-veliz-46b685271/) · **Disponible para:** remoto internacional, tiempo completo, medio tiempo, pasantías / prácticas
 
-Cuatro repositorios públicos que muestran el ciclo completo — problema, datos, método y validación — con su alcance declarado.
+## Proyectos destacados
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Eduardo12Pacheco/ecuador-job-market-intelligence">
-        <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/ecuador-job-market-intelligence/main/docs/assets/evidence-desk-public-es.png" alt="Interfaz de análisis del mercado laboral ecuatoriano" width="100%" style="max-width: 400px; border-radius: 6px;">
-      </a>
-      <br>
-      <a href="https://github.com/Eduardo12Pacheco/ecuador-job-market-intelligence"><strong>Ecuador Job Market Intelligence</strong></a>
-      <br>
-      <em>Ingestión controlada de ofertas y matching reproducible con evaluación humana.</em>
-      <br>
-      <sub>Alcance: muestra curada de 20 ofertas, no un estudio de mercado completo.</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Eduardo12Pacheco/ecuador-mobility-reliability">
-        <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/ecuador-mobility-reliability/main/docs/assets/streamlit-demo.png" alt="Demo de validación del servicio planificado de transporte público" width="100%" style="max-width: 400px; border-radius: 6px;">
-      </a>
-      <br>
-      <a href="https://github.com/Eduardo12Pacheco/ecuador-mobility-reliability"><strong>Ecuador Mobility Reliability</strong></a>
-      <br>
-      <em>Contratos de datos y validación de fuentes CKAN para transformar el servicio planificado.</em>
-      <br>
-      <sub>Alcance: el análisis geoespacial sigue bloqueado por el formato de coordenadas.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Eduardo12Pacheco/demand-inventory-optimizer">
-        <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/demand-inventory-optimizer/main/docs/assets/demo-viewer.png" alt="Visor del benchmark de pronósticos de demanda" width="100%" style="max-width: 400px; border-radius: 6px;">
-      </a>
-      <br>
-      <a href="https://github.com/Eduardo12Pacheco/demand-inventory-optimizer"><strong>Demand Inventory Optimizer</strong></a>
-      <br>
-      <em>Benchmark reproducible de pronósticos con líneas base transparentes y particiones temporales.</em>
-      <br>
-      <sub>Alcance: no elige un ganador universal ni pretende operar en producción.</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Eduardo12Pacheco/ecuador-public-information-evidence-assistant">
-        <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/ecuador-public-information-evidence-assistant/main/docs/assets/streamlit-demo.png" alt="Asistente de evidencia de información pública" width="100%" style="max-width: 400px; border-radius: 6px;">
-      </a>
-      <br>
-      <a href="https://github.com/Eduardo12Pacheco/ecuador-public-information-evidence-assistant"><strong>Ecuador Public Information Evidence Assistant</strong></a>
-      <br>
-      <em>Prototipo offline que recupera evidencia con citaciones exactas y provenance.</em>
-      <br>
-      <sub>Alcance: el corpus público de Gob.ec sigue bloqueado por cobertura y licencia no confirmada.</sub>
-    </td>
-  </tr>
-</table>
+| # | Proyecto | Resultado | Evidencia |
+|---|----------|-----------|-----------|
+| 1 | [Newsroom Video Automation](https://github.com/Eduardo12Pacheco/newsroom-video-automation) | Pipeline local-first de noticias a video: radar, guion, voz, subtítulos y render. Servicios Python + renderer Node/Remotion; construido con asistencia de IA y revisión humana. | CI ✓ · pytest + Node tests · MIT |
+| 2 | [Ecuador Decision Intelligence Platform](https://github.com/Eduardo12Pacheco/ecuador-decision-intelligence-platform) | Plataforma de integración con FastAPI, ingesta programada, SQLite y estados de falla observables; consume artefactos versionados de dos proyectos de datos. | CI ✓ · pytest · MIT |
+| 3 | [Retail Demand — Inventory Decision Engine](https://github.com/Eduardo12Pacheco/retail-demand-inventory-decision-engine) | Pronóstico de demanda, simulación de políticas de inventario y análisis de robustez con resultados reproducibles y denominadores declarados. | CI ✓ · pytest · MIT |
+| 4 | [Evidence-Grounded RAG System](https://github.com/Eduardo12Pacheco/evidence-grounded-rag-system) | RAG con recuperación híbrida, citas validadas, abstención obligatoria y evaluación reproducible de recuperación y soporte. | CI ✓ · pytest · MIT |
+| 5 | [Cuenca Transit Planned-Service Audit](https://github.com/Eduardo12Pacheco/cuenca-transit-planned-service-audit) | Auditoría reproducible del servicio planificado de Cuenca: 76 rutas, 383 paradas, contratos de datos y validación estricta contra manifiestos. | CI ✓ · pytest · MIT |
+| 6 | [Ecuador Job Market Intelligence](https://github.com/Eduardo12Pacheco/ecuador-job-market-intelligence) | Ingesta y evaluación de habilidades en una muestra curada de ofertas laborales, con citas exactas y revisión humana completa. | CI ✓ · pytest · MIT |
 
-## ⚙️ Cómo trabajo
+## Stack
 
-- **Problema** — empiezo definiendo qué decisión o pregunta quiero responder.
-- **Datos** — uso fuentes públicas y documentadas, con contratos de datos y validación estricta.
-- **Método** — aplico primero líneas base simples y solo después modelos más complejos.
-- **Validación** — cada resultado se evalúa con métricas trazables y, cuando aplica, revisión humana.
-- **Visualización** — termino en una vista que permita explorar el resultado, no solo leerlo.
-- **Limitaciones** — dejo explícito qué no se pudo cubrir y por qué.
+**Demostrado en repos:** Python · pytest · uv · FastAPI · SQLite/Postgres · Docker · GitHub Actions · Streamlit · contratos de datos
 
-## 🛠️ Conocimientos y herramientas
+**En formación:** Node/Remotion · React · Pandas/NumPy · orquestación de agentes (MCP, RAG)
 
-**Demostrados en proyectos públicos:** Python · pytest · uv · Streamlit · Git/GitHub · Linux · APIs · JSON/CSV · contratos de datos · validación · provenance · evaluación reproducible
+## Cómo trabajo
 
-**Vistos y en formación:** HTML · CSS · JavaScript · FastAPI · React · Docker · Pandas · NumPy
+- **Evidencia antes que afirmaciones** — cada resultado tiene un comando reproducible y un denominador declarado.
+- **Contratos y pruebas primero** — validación estricta de fuentes, comportamiento fail-closed y tests que fijan lo esperado.
+- **Alcance honesto** — las limitaciones y lo que no se cubrió quedan escritas, no ocultas.
 
-**Automatización y workflows (en formación):** n8n · automatizaciones
+## Busco
 
-## 🧠 Temas que estoy explorando
-
-- **Práctica aplicada:** Git y GitHub, integrados en el flujo diario de estos proyectos.
-- **Profundización actual:** agentes de IA, MCP, RAG y skills para agentes — qué son, cómo se construyen y en qué casos aportan valor real.
-
-Presento cada tema según la evidencia que puedo defender, no como experiencia productiva que todavía no he validado.
-
-## 📚 Fundamentos en progreso
-
-- **Python y POO** — programas pequeños, claros y testeables.
-- **Estructuras de datos y algoritmos** — complejidad y elección de la estructura correcta.
-- **Testing** — pruebas que documentan comportamiento y previenen regresiones.
-- **SQL y APIs** — consultas, modelado básico e integración con servicios.
-- **Matemática para computación** — cálculo de una variable, cálculo vectorial y álgebra lineal cursados en ESPOL.
-- **Estadística, pronósticos y fundamentos de ML** — baselines, métricas y validación temporal.
-
-## 🎯 Oportunidades de interés
-
-Busco roles junior donde pueda aportar desde el primer día y seguir aprendiendo con proyectos reales:
-
-- **Junior Python / Backend**
-- **ETL Developer**
-- **Data Engineer Junior**
-- **Analytics Engineer**
-
-## 🤝 Principios
-
-- **Evidencia** — cada afirmación de este perfil y de los repositorios tiene un respaldo verificable.
-- **Reproducibilidad** — un proyecto está terminado cuando otra persona puede ejecutarlo y obtener lo mismo.
-- **Baselines transparentes** — primero lo simple y medible, después lo complejo.
-- **Limitaciones visibles** — lo que no funciona o no se cubrió se documenta, no se oculta.
+Roles junior de **Python / Backend**, **Data Engineer**, **ETL** y **Analytics Engineer** donde pueda aportar desde el primer día y seguir aprendiendo.
 
 ---
 
-<p align="center">
-  <sub>Construyendo con evidencia y honestidad, una iteración a la vez.</sub><br>
-  <sub><a href="https://github.com/Eduardo12Pacheco">GitHub</a> · <a href="https://www.espol.edu.ec">ESPOL</a></sub>
-</p>
+[LinkedIn](https://www.linkedin.com/in/eduardo-israel-pacheco-veliz-46b685271/) · [GitHub](https://github.com/Eduardo12Pacheco) · Guayaquil, Ecuador
