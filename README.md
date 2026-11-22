@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-israel-pacheco-veliz-46b685271/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/eduardo-pacheco-veliz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Guayaquil%2C_Ecuador-24292F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Guayaquil, Ecuador">
   <img src="https://img.shields.io/badge/Disponible-remoto_%C2%B7_tiempo_completo_%C2%B7_pr%C3%A1cticas-2EA043?style=for-the-badge" alt="Disponible: remoto, tiempo completo, medio tiempo y prácticas">
 </p>
