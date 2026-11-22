@@ -47,6 +47,7 @@ Estudio Ciencia de Datos e IA en [ESPOL](https://www.espol.edu.ec) y construyo *
 - [**Motor de demanda e inventario retail**](https://github.com/Eduardo12Pacheco/motor-demanda-inventario-retail) — pronóstico de demanda, simulación de políticas de inventario y análisis de robustez.
 - [**Auditoría del transporte público de Cuenca**](https://github.com/Eduardo12Pacheco/auditoria-transporte-publico-cuenca) — auditoría del servicio planificado de Cuenca: 76 rutas, 383 paradas y validación estricta contra manifiestos.
 - [**Mercado laboral de Ecuador**](https://github.com/Eduardo12Pacheco/mercado-laboral-ecuador) — ingesta y evaluación de habilidades en ofertas laborales, con citas exactas y revisión humana.
+- [**MinuteCutter**](https://github.com/Eduardo12Pacheco/minutecutter-panel-premiere) — panel CEP para Premiere Pro que corta rangos desde el material fuente, con audio vinculado y sin mover el resto del timeline.
 
 </details>
 
