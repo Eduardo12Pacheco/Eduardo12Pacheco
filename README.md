@@ -1,41 +1,81 @@
-# Eduardo Pacheco
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Eduardo Pacheco — Junior Python / Data Engineer en Guayaquil, Ecuador. Construyo pipelines que van de la fuente al contrato, a los tests y a un artefacto versionado.">
+</picture>
 
-**Junior Python / Data Engineer**  
-Ciencia de Datos e IA · ESPOL · Guayaquil
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3200&pause=1400&color=2F81F7&center=true&vCenter=true&width=640&height=44&lines=Pipelines+de+datos+reproducibles+y+testeados;Contratos%2C+pruebas+y+evidencia+antes+que+afirmaciones;ML+y+anal%C3%ADtica+que+corren+100%25+en+local" alt="Pipelines de datos reproducibles y testeados · Contratos, pruebas y evidencia antes que afirmaciones · ML y analítica que corren 100% en local">
+</p>
 
-*English: junior Python / data engineer building reproducible, tested data pipelines with Python, FastAPI, SQL and Docker.*
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardo-israel-pacheco-veliz-46b685271/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Guayaquil%2C_Ecuador-24292F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Guayaquil, Ecuador">
+  <img src="https://img.shields.io/badge/Disponible-remoto_%C2%B7_tiempo_completo_%C2%B7_pr%C3%A1cticas-2EA043?style=for-the-badge" alt="Disponible: remoto, tiempo completo, medio tiempo y prácticas">
+</p>
 
-Construyo pipelines de datos reproducibles y testeados: fuentes públicas o fijadas, contratos explícitos, pruebas y resultados que otra persona puede volver a ejecutar. Trabajo con Python, FastAPI, SQL y Docker, y documento el alcance y las limitaciones de cada proyecto.
+## Sobre mí
 
-📍 Guayaquil, Ecuador · [LinkedIn](https://www.linkedin.com/in/eduardo-israel-pacheco-veliz-46b685271/) · **Disponible para:** remoto internacional, tiempo completo, medio tiempo, pasantías / prácticas
+Estudio Ciencia de Datos e IA en [ESPOL](https://www.espol.edu.ec) y construyo **pipelines de datos que otra persona puede volver a ejecutar**: fuentes fijadas con checksums, contratos explícitos, pruebas en CI y resultados con su alcance declarado. Trabajo con Python, SQL, FastAPI y Docker, y mis proyectos más recientes corren por completo en local, sin cuentas ni APIs de pago.
+
+> *English: junior Python / data engineer from Ecuador building reproducible, tested data pipelines and local-first ML tools.*
 
 ## Proyectos destacados
 
-| # | Proyecto | Resultado | Evidencia |
-|---|----------|-----------|-----------|
-| 1 | [Newsroom Video Automation](https://github.com/Eduardo12Pacheco/newsroom-video-automation) | Pipeline local-first de noticias a video: radar, guion, voz, subtítulos y render. Servicios Python + renderer Node/Remotion; construido con asistencia de IA y revisión humana. | CI ✓ · pytest + Node tests · MIT |
-| 2 | [Ecuador Decision Intelligence Platform](https://github.com/Eduardo12Pacheco/ecuador-decision-intelligence-platform) | Plataforma de integración con FastAPI, ingesta programada, SQLite y estados de falla observables; consume artefactos versionados de dos proyectos de datos. | CI ✓ · pytest · MIT |
-| 3 | [Retail Demand — Inventory Decision Engine](https://github.com/Eduardo12Pacheco/retail-demand-inventory-decision-engine) | Pronóstico de demanda, simulación de políticas de inventario y análisis de robustez con resultados reproducibles y denominadores declarados. | CI ✓ · pytest · MIT |
-| 4 | [Evidence-Grounded RAG System](https://github.com/Eduardo12Pacheco/evidence-grounded-rag-system) | RAG con recuperación híbrida, citas validadas, abstención obligatoria y evaluación reproducible de recuperación y soporte. | CI ✓ · pytest · MIT |
-| 5 | [Cuenca Transit Planned-Service Audit](https://github.com/Eduardo12Pacheco/cuenca-transit-planned-service-audit) | Auditoría reproducible del servicio planificado de Cuenca: 76 rutas, 383 paradas, contratos de datos y validación estricta contra manifiestos. | CI ✓ · pytest · MIT |
-| 6 | [Ecuador Job Market Intelligence](https://github.com/Eduardo12Pacheco/ecuador-job-market-intelligence) | Ingesta y evaluación de habilidades en una muestra curada de ofertas laborales, con citas exactas y revisión humana completa. | CI ✓ · pytest · MIT |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/newsroom-video-automation"><img src="assets/cards/newsroom.svg" width="100%" alt="Newsroom Video Automation: de la noticia al video con radar, guion con IA, voz, subtítulos y render, todo offline"></a></td>
+    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/lakehouse-datos-abiertos-ecuador"><img src="assets/cards/lakehouse.svg" width="100%" alt="Lakehouse de datos abiertos de Ecuador: datos del SRI, INEC y BCE verificados con checksums y modelados con dbt en DuckDB"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/laboratorio-mlops"><img src="assets/cards/mlops.svg" width="100%" alt="Laboratorio MLOps: validación, MLflow, registro de modelos, servicio con FastAPI y monitoreo de drift"></a></td>
+    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/indicadores-ecuador-escritorio"><img src="assets/cards/indicadores.svg" width="100%" alt="Indicadores Ecuador: app de escritorio offline para explorar indicadores del Banco Mundial, con Tauri, Rust y React"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/ecuador-decision-intelligence-platform"><img src="assets/cards/decision-platform.svg" width="100%" alt="Decision Intelligence Platform: ingesta programada con FastAPI y SQLite, con estados de falla observables"></a></td>
+    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/evidence-grounded-rag-system"><img src="assets/cards/rag.svg" width="100%" alt="Evidence-Grounded RAG: recuperación híbrida, citas validadas y abstención cuando no hay evidencia"></a></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Más proyectos</b></summary>
+<br>
+
+- [**Retail Demand — Inventory Decision Engine**](https://github.com/Eduardo12Pacheco/retail-demand-inventory-decision-engine) — pronóstico de demanda, simulación de políticas de inventario y análisis de robustez.
+- [**Cuenca Transit Planned-Service Audit**](https://github.com/Eduardo12Pacheco/cuenca-transit-planned-service-audit) — auditoría del servicio planificado de Cuenca: 76 rutas, 383 paradas y validación estricta contra manifiestos.
+- [**Ecuador Job Market Intelligence**](https://github.com/Eduardo12Pacheco/ecuador-job-market-intelligence) — ingesta y evaluación de habilidades en ofertas laborales, con citas exactas y revisión humana.
+
+*En preparación para publicar:* un agente analista SQL local, streaming sísmico en tiempo real, detección de fallas viales con visión por computadora y un clasificador de texto en español con LoRA.
+
+</details>
 
 ## Stack
 
-**Demostrado en repos:** Python · pytest · uv · FastAPI · SQLite/Postgres · Docker · GitHub Actions · Streamlit · contratos de datos
-
-**En formación:** Node/Remotion · React · Pandas/NumPy · orquestación de agentes (MCP, RAG)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,githubactions,linux,git&theme=dark" alt="Python, FastAPI, PostgreSQL, SQLite, Docker, GitHub Actions, Linux, Git"><br>
+  <img src="https://skillicons.dev/icons?i=sklearn,nodejs,ts,react,rust,tauri&theme=dark" alt="scikit-learn, Node.js, TypeScript, React, Rust, Tauri"><br><br>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="uv">
+</p>
 
 ## Cómo trabajo
 
 - **Evidencia antes que afirmaciones** — cada resultado tiene un comando reproducible y un denominador declarado.
-- **Contratos y pruebas primero** — validación estricta de fuentes, comportamiento fail-closed y tests que fijan lo esperado.
+- **Contratos y pruebas primero** — validación estricta de fuentes, comportamiento *fail-closed* y tests que fijan lo esperado.
 - **Alcance honesto** — las limitaciones y lo que no se cubrió quedan escritas, no ocultas.
 
 ## Busco
 
-Roles junior de **Python / Backend**, **Data Engineer**, **ETL** y **Analytics Engineer** donde pueda aportar desde el primer día y seguir aprendiendo.
+Roles junior de **Python / Backend**, **Data Engineer**, **ETL** y **Analytics Engineer**, en remoto o en Guayaquil, donde pueda aportar desde el primer día y seguir aprendiendo.
 
----
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/eduardo-israel-pacheco-veliz-46b685271/) · [GitHub](https://github.com/Eduardo12Pacheco) · Guayaquil, Ecuador
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo12Pacheco/Eduardo12Pacheco/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/Eduardo12Pacheco/output/snake-light.svg" width="100%" alt="Serpiente recorriendo el gráfico de contribuciones de GitHub de Eduardo Pacheco">
+</picture>
+
+<p align="center"><sub>Assets generados con <code>tools/build_assets.py</code> · serpiente actualizada a diario por GitHub Actions</sub></p>
