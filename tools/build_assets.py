@@ -112,7 +112,7 @@ CARDS = [
             "voz, subtítulos y render, todo offline.",
         ],
         "chips": ["Python", "Node", "Ollama", "Whisper", "Remotion"],
-        "accent": "#ff7b72",
+        "accent": "#f778ba",
     },
     {
         "slug": "lakehouse",
@@ -148,6 +148,50 @@ CARDS = [
         "accent": "#f5c400",
     },
     {
+        "slug": "agente-sql",
+        "eyebrow": "IA LOCAL · TEXT-TO-SQL",
+        "title": "Agente analista SQL local",
+        "lines": [
+            "Responde en español sobre compras públicas",
+            "de Ecuador con SQL de solo lectura validado.",
+        ],
+        "chips": ["Python", "DuckDB", "Ollama", "FastAPI"],
+        "accent": "#39c5cf",
+    },
+    {
+        "slug": "sismos",
+        "eyebrow": "STREAMING EN TIEMPO REAL",
+        "title": "Sismos en tiempo real",
+        "lines": [
+            "Terremotos reales de USGS en streaming,",
+            "con un solo comando en tu máquina.",
+        ],
+        "chips": ["Redpanda", "ClickHouse", "Grafana", "Python"],
+        "accent": "#e5534b",
+    },
+    {
+        "slug": "fallas-viales",
+        "eyebrow": "VISIÓN POR COMPUTADORA",
+        "title": "Detección de fallas viales",
+        "lines": [
+            "Grietas y baches en fotos y video con",
+            "RT-DETRv2 e inferencia ONNX sin PyTorch.",
+        ],
+        "chips": ["RT-DETRv2", "ONNX", "PyTorch", "FastAPI"],
+        "accent": "#ffa657",
+    },
+    {
+        "slug": "clasificador",
+        "eyebrow": "NLP · ESPAÑOL",
+        "title": "Clasificador de texto LoRA",
+        "lines": [
+            "60 intenciones en español con MrBERT-es",
+            "ajustado con LoRA y servido con ONNX.",
+        ],
+        "chips": ["Transformers", "LoRA", "ONNX", "FastAPI"],
+        "accent": "#b083f0",
+    },
+    {
         "slug": "decision-platform",
         "eyebrow": "PLATAFORMA DE DATOS",
         "title": "Decision Intelligence Platform",
@@ -167,7 +211,7 @@ CARDS = [
             "abstención cuando no hay evidencia.",
         ],
         "chips": ["Python", "Búsqueda híbrida", "Evaluación"],
-        "accent": "#ffa657",
+        "accent": "#e3b341",
     },
 ]
 
