@@ -106,7 +106,7 @@ CARDS = [
     {
         "slug": "newsroom",
         "eyebrow": "IA LOCAL · VIDEO",
-        "title": "Newsroom Video Automation",
+        "title": "Video de noticias con IA",
         "lines": [
             "De la noticia al video: radar, guion con IA,",
             "voz, subtítulos y render, todo offline.",

@@ -23,7 +23,7 @@ Estudio Ciencia de Datos e IA en [ESPOL](https://www.espol.edu.ec) y construyo *
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/newsroom-video-automation"><img src="assets/cards/newsroom.svg" width="100%" alt="Newsroom Video Automation: de la noticia al video con radar, guion con IA, voz, subtítulos y render, todo offline"></a></td>
+    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/automatizacion-video-noticias"><img src="assets/cards/newsroom.svg" width="100%" alt="Automatización de video para noticias: de la noticia al video con radar, guion con IA, voz, subtítulos y render, todo offline"></a></td>
     <td width="50%"><a href="https://github.com/Eduardo12Pacheco/lakehouse-datos-abiertos-ecuador"><img src="assets/cards/lakehouse.svg" width="100%" alt="Lakehouse de datos abiertos de Ecuador: datos del SRI, INEC y BCE verificados con checksums y modelados con dbt en DuckDB"></a></td>
   </tr>
   <tr>
@@ -42,11 +42,11 @@ Estudio Ciencia de Datos e IA en [ESPOL](https://www.espol.edu.ec) y construyo *
 
 - [**Indicadores Ecuador**](https://github.com/Eduardo12Pacheco/indicadores-ecuador-escritorio) — app de escritorio offline para explorar indicadores del Banco Mundial (Tauri, Rust y React).
 - [**Clasificador de texto LoRA**](https://github.com/Eduardo12Pacheco/clasificador-de-texto-lora) — 60 intenciones en español con MrBERT-es ajustado con LoRA y servido con ONNX en CPU.
-- [**Decision Intelligence Platform**](https://github.com/Eduardo12Pacheco/ecuador-decision-intelligence-platform) — ingesta programada con FastAPI y SQLite, con estados de falla observables.
-- [**Evidence-Grounded RAG**](https://github.com/Eduardo12Pacheco/evidence-grounded-rag-system) — recuperación híbrida, citas validadas y abstención cuando no hay evidencia.
-- [**Retail Demand — Inventory Decision Engine**](https://github.com/Eduardo12Pacheco/retail-demand-inventory-decision-engine) — pronóstico de demanda, simulación de políticas de inventario y análisis de robustez.
-- [**Cuenca Transit Planned-Service Audit**](https://github.com/Eduardo12Pacheco/cuenca-transit-planned-service-audit) — auditoría del servicio planificado de Cuenca: 76 rutas, 383 paradas y validación estricta contra manifiestos.
-- [**Ecuador Job Market Intelligence**](https://github.com/Eduardo12Pacheco/ecuador-job-market-intelligence) — ingesta y evaluación de habilidades en ofertas laborales, con citas exactas y revisión humana.
+- [**Plataforma de inteligencia de decisiones**](https://github.com/Eduardo12Pacheco/plataforma-inteligencia-decisiones-ecuador) — ingesta programada con FastAPI y SQLite, con estados de falla observables.
+- [**Sistema RAG con evidencia**](https://github.com/Eduardo12Pacheco/sistema-rag-con-evidencia) — recuperación híbrida, citas validadas y abstención cuando no hay evidencia.
+- [**Motor de demanda e inventario retail**](https://github.com/Eduardo12Pacheco/motor-demanda-inventario-retail) — pronóstico de demanda, simulación de políticas de inventario y análisis de robustez.
+- [**Auditoría del transporte público de Cuenca**](https://github.com/Eduardo12Pacheco/auditoria-transporte-publico-cuenca) — auditoría del servicio planificado de Cuenca: 76 rutas, 383 paradas y validación estricta contra manifiestos.
+- [**Mercado laboral de Ecuador**](https://github.com/Eduardo12Pacheco/mercado-laboral-ecuador) — ingesta y evaluación de habilidades en ofertas laborales, con citas exactas y revisión humana.
 
 </details>
 
