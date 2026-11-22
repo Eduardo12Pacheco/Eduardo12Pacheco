@@ -79,5 +79,3 @@ Roles junior de **Python / Backend**, **Data Engineer**, **ETL** y **Analytics E
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo12Pacheco/Eduardo12Pacheco/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/Eduardo12Pacheco/Eduardo12Pacheco/output/snake-light.svg" width="100%" alt="Serpiente recorriendo el gráfico de contribuciones de GitHub de Eduardo Pacheco">
 </picture>
-
-<p align="center"><sub>Assets generados con <code>tools/build_assets.py</code> · serpiente actualizada a diario por GitHub Actions</sub></p>
