@@ -27,20 +27,12 @@ Estudio Ciencia de Datos e IA en [ESPOL](https://www.espol.edu.ec) y construyo *
     <td width="50%"><a href="https://github.com/Eduardo12Pacheco/lakehouse-datos-abiertos-ecuador"><img src="assets/cards/lakehouse.svg" width="100%" alt="Lakehouse de datos abiertos de Ecuador: datos del SRI, INEC y BCE verificados con checksums y modelados con dbt en DuckDB"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/laboratorio-mlops"><img src="assets/cards/mlops.svg" width="100%" alt="Laboratorio MLOps: validación, MLflow, registro de modelos, servicio con FastAPI y monitoreo de drift"></a></td>
-    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/indicadores-ecuador-escritorio"><img src="assets/cards/indicadores.svg" width="100%" alt="Indicadores Ecuador: app de escritorio offline para explorar indicadores del Banco Mundial, con Tauri, Rust y React"></a></td>
-  </tr>
-  <tr>
     <td width="50%"><a href="https://github.com/Eduardo12Pacheco/agente-analista-sql-local"><img src="assets/cards/agente-sql.svg" width="100%" alt="Agente analista SQL local: responde en español sobre compras públicas de Ecuador con SQL de solo lectura validado"></a></td>
     <td width="50%"><a href="https://github.com/Eduardo12Pacheco/sismos-en-tiempo-real"><img src="assets/cards/sismos.svg" width="100%" alt="Sismos en tiempo real: terremotos reales de USGS en streaming con Redpanda, ClickHouse y Grafana"></a></td>
   </tr>
   <tr>
+    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/laboratorio-mlops"><img src="assets/cards/mlops.svg" width="100%" alt="Laboratorio MLOps: validación, MLflow, registro de modelos, servicio con FastAPI y monitoreo de drift"></a></td>
     <td width="50%"><a href="https://github.com/Eduardo12Pacheco/deteccion-fallas-viales"><img src="assets/cards/fallas-viales.svg" width="100%" alt="Detección de fallas viales: grietas y baches en fotos y video con RT-DETRv2 e inferencia ONNX"></a></td>
-    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/clasificador-de-texto-lora"><img src="assets/cards/clasificador.svg" width="100%" alt="Clasificador de texto LoRA: 60 intenciones en español con MrBERT-es ajustado con LoRA y servido con ONNX"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/ecuador-decision-intelligence-platform"><img src="assets/cards/decision-platform.svg" width="100%" alt="Decision Intelligence Platform: ingesta programada con FastAPI y SQLite, con estados de falla observables"></a></td>
-    <td width="50%"><a href="https://github.com/Eduardo12Pacheco/evidence-grounded-rag-system"><img src="assets/cards/rag.svg" width="100%" alt="Evidence-Grounded RAG: recuperación híbrida, citas validadas y abstención cuando no hay evidencia"></a></td>
   </tr>
 </table>
 
@@ -48,6 +40,10 @@ Estudio Ciencia de Datos e IA en [ESPOL](https://www.espol.edu.ec) y construyo *
 <summary><b>Más proyectos</b></summary>
 <br>
 
+- [**Indicadores Ecuador**](https://github.com/Eduardo12Pacheco/indicadores-ecuador-escritorio) — app de escritorio offline para explorar indicadores del Banco Mundial (Tauri, Rust y React).
+- [**Clasificador de texto LoRA**](https://github.com/Eduardo12Pacheco/clasificador-de-texto-lora) — 60 intenciones en español con MrBERT-es ajustado con LoRA y servido con ONNX en CPU.
+- [**Decision Intelligence Platform**](https://github.com/Eduardo12Pacheco/ecuador-decision-intelligence-platform) — ingesta programada con FastAPI y SQLite, con estados de falla observables.
+- [**Evidence-Grounded RAG**](https://github.com/Eduardo12Pacheco/evidence-grounded-rag-system) — recuperación híbrida, citas validadas y abstención cuando no hay evidencia.
 - [**Retail Demand — Inventory Decision Engine**](https://github.com/Eduardo12Pacheco/retail-demand-inventory-decision-engine) — pronóstico de demanda, simulación de políticas de inventario y análisis de robustez.
 - [**Cuenca Transit Planned-Service Audit**](https://github.com/Eduardo12Pacheco/cuenca-transit-planned-service-audit) — auditoría del servicio planificado de Cuenca: 76 rutas, 383 paradas y validación estricta contra manifiestos.
 - [**Ecuador Job Market Intelligence**](https://github.com/Eduardo12Pacheco/ecuador-job-market-intelligence) — ingesta y evaluación de habilidades en ofertas laborales, con citas exactas y revisión humana.
